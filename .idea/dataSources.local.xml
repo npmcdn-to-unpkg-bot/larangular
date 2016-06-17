@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - larangular@localhost" uuid="bd033f8e-8943-4fbf-a8b7-48416d0a1bca">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>larangular.*</schema-pattern>
+      <default-schemas>larangular.*</default-schemas>
+    </data-source>
+  </component>
+</project>
